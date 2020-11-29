@@ -1,0 +1,25 @@
+#Login-container {
+  margin-top: 100px;
+  margin-left:300px;
+}
+
+#Login-container #login{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 400px;
+}
+
+#Login-container #login h1 {
+  font-size: 20px;
+}
+
+#Login-container #login img {
+  width: 250px;
+}
+
+#Login-container #login button {
+  width: 80px;
+  margin-top: 10px;
+}
